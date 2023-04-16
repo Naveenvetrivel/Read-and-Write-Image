@@ -78,32 +78,34 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
-![image](https://user-images.githubusercontent.com/94165322/232279900-50bcdd17-2600-430a-b2a4-97e7a5825cf8.png)
+![image](https://user-images.githubusercontent.com/94165322/232280001-5322f660-6c5c-452f-81d0-016c0dc41ba7.png)
+![image](https://user-images.githubusercontent.com/94165322/232280011-4ee13efc-727b-44d0-a256-bd1304a0d9eb.png)
 
 
 
 
 ### ii)Write the image
-![image](https://user-images.githubusercontent.com/94165322/232279908-07894323-7cb3-4e95-ac50-05bfbd8f9482.png)
+![image](https://user-images.githubusercontent.com/94165322/232280018-fa13d6d0-7902-4d1a-aed2-68964d5dad17.png)
+
 
 
 
 ### iii)Shape of the Image
 
-![image](https://user-images.githubusercontent.com/94165322/232279917-7d35d4e9-92b1-49ac-af37-8145395b59c4.png)
+![image](https://user-images.githubusercontent.com/94165322/232280024-d211a2f1-27b7-41c0-81f0-38ee75709c6f.png)
 
 
 
 
 ### iv)Access rows and columns
-![image](https://user-images.githubusercontent.com/94165322/232279927-c35e8fce-809c-4cae-b9a0-79b48c11abcc.png)
-
+![image](https://user-images.githubusercontent.com/94165322/232280031-d8e2e5a6-b6b9-4b2e-a80c-fcade59d8c7c.png)
 
 
 
 
 ### v)Cut and paste portion of image
-![image](https://user-images.githubusercontent.com/94165322/232279934-0245107b-b3d9-4dc3-b41b-89d1193c565a.png)
+
+![image](https://user-images.githubusercontent.com/94165322/232280037-58d3a471-a0bf-4bc0-b216-54acdf1253cc.png)
 
 
 
